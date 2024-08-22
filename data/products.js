@@ -657,4 +657,8 @@ const products = [
       "mens"
     ]
   }
+<<<<<<< HEAD
 ];
+=======
+];
+>>>>>>> 7eb5d35 (Add the starting files)
